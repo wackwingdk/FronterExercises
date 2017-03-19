@@ -30,6 +30,6 @@ public class FamilyTreeNode {
 	public static void main(String [] args) {
 		FamilyTreeNode me = new FamilyTreeNode(new Person("Henrik",1977));
 		me.setFather(new Person("Harry",1946));
-		me.setMother(new Person("Hilda",1945));
+		me.setMother(new Person("Hilda",1943));
 	}
 }
